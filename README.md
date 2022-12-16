@@ -1,4 +1,4 @@
-# llocaltunnel
+# Joppe lt
 
 localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
 
